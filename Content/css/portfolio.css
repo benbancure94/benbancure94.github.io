@@ -1,0 +1,109 @@
+body {
+    min-width: 500px;
+    background-color: #ddeeff;
+}
+.container-fluid > div:first-child, .container-fluid > div:last-child {
+    background-image: url(../images/bgabout.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.ben-about-cont, .ben-media-acct-cont {
+    background-color: #ddeeffbf;
+}
+.ben-about-info > div > div > div > h4 {
+    text-align: center;
+}
+.ben-about-info > div > div > div > ul,
+.ben-about-info > div > div > dl {
+    word-wrap: break-word;
+    font-size: 11pt;
+    list-style-type: none;
+    padding: 0px;
+    text-align: center;
+}
+.ben-about-info > div > div > div > ul > li {
+    padding: 3px 0;
+}
+.ben-about-cont, .ben-portfolio-cont, .ben-media-acct-cont {
+    padding: 30px 0;
+}
+.ben-about-cont > .row, .ben-portfolio-cont > .row {
+    padding: 0 60px;
+}
+.ben-about-cont > .row > :nth-child(2) > a:hover {
+    text-decoration: none;
+}
+.ben-about-cont > h1, .ben-portfolio-cont > h1 {
+    margin-bottom: 50px;
+}
+.ben-portfolio-cont {
+    margin-bottom: 50px;
+}
+.ben-portfolio-cont > #skillsAccordion > .card {
+    margin-bottom: 20px;
+}
+.ben-portfolio-cont > .row > div {
+    margin-bottom: 70px;
+}
+.ben-portfolio-cont > .row > div > div {
+    margin: auto;
+    margin-bottom: 25px;
+    width: 115px;
+}
+.ben-portfolio-cont > .row > div > div > img,
+.ben-portfolio-cont > .row > div > div > a > img {
+    width: 100%;
+}
+.ben-portfolio-cont > .row > div > h5 {
+    text-align: center;
+}
+.ben-portfolio-cont > .row > div > p {
+    text-align: center;
+    font-size: 11pt;
+}
+#frontEndDev > .card-body > .row > .media > img,
+#backEndDev > .card-body > .row > .media > img,
+#desktopDev > .card-body > .row > .media > img,
+#otherSkills > .card-body > .row > .media > img {
+    width: 80px; height: 80px;
+}
+.ben-skills-cont, .ben-charref-cont {
+    padding: 10px;
+}
+.ben-skills-cont > div > img, .ben-charref-cont > div > img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+.ben-tophome-links {
+    text-align: center;
+    margin: 50px 0;
+}
+.ben-tophome-links > a {
+    margin: 0 25px;
+}
+.ben-media-acct-cont {
+    color: #555555;
+    padding-bottom: 120px;
+}
+.ben-media-acct-cont > span {
+    display: block;
+    margin-bottom: 10px;
+}
+.ben-media-acct-cont > ul {
+    padding: 0;
+}
+.ben-media-acct-cont > ul > li {
+    /* list-style-type: none; */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ben-media-acct-link {
+    color: #555555;
+}
+.ben-media-acct-link:hover {
+    color: #888888;
+    text-decoration: none;
+}
