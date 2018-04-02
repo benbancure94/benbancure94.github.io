@@ -8,7 +8,29 @@ body {
     background-position: center;
     background-size: cover;
 }
-
+/* #benAbout > .row > div > ul {
+    max-width: 400px;
+} */
+.ben-contact {
+    max-width: 400px;
+}
+/* #benAbout > .row > div > ul > li > span:first-child {
+    font-size: 15pt;
+    min-width: 50px;
+} */
+/* #benAbout > .row > div > ul > li > div:last-child {
+    display: inline-block;
+    word-wrap: break-word;
+} */
+.ben-contact > li > span {
+    min-width: 40px;
+    font-size: 16pt;
+}
+.ben-contact > li > small {
+    flex-grow: 1;
+    width: 0;
+    text-align: center;
+}
 .ben-about-cont, .ben-media-acct-cont {
     background-color: #ddeeffbf;
 }
