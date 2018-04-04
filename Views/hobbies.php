@@ -36,7 +36,7 @@
                             <img class="img rounded-circle" src="../Content/images/hobbies/singing.jpg"/>
                         </div>
                         <h5>Singing</h5>
-                        <p>I like to sing, though I am shy, especially OPM songs.</p>
+                        <p>I like to sing, though I am shy and but not so much, especially OPM songs.</p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div>

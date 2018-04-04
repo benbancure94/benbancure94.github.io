@@ -39,7 +39,8 @@
                                             </p>
                                             <p>
                                                 Click 
-                                                <a href="https://www.w3.org/html/" target="_blank">here</a> 
+                                                <a href="https://www.w3.org/html/" target="_blank">here</a>, 
+                                                <a href="https://html.com/" target="_blank">here</a>, 
                                                 and 
                                                 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">here</a> 
                                                 to read more.
@@ -57,7 +58,8 @@
                                             </p>
                                             <p>
                                                 Click 
-                                                <a href="https://www.w3.org/Style/CSS/" target="_blank">here</a> 
+                                                <a href="https://www.w3.org/Style/CSS/" target="_blank">here</a>, 
+                                                <a href="http://css3.com/" target="_blank">here</a> 
                                                 and 
                                                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">here</a> 
                                                 to read more.
@@ -107,7 +109,8 @@
                                             </p>
                                             <p>
                                                 Click 
-                                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">here</a> 
+                                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">here</a> and
+                                                <a href="https://www.javascript.com/" target="_blank">here</a> 
                                                 to read more.
                                             </p>
                                         </div>
@@ -124,17 +127,6 @@
                                             <p>Click <a href="http://jquery.com/" target="_blank">here</a> to read more.</p>
                                         </div>
                                     </div>
-
-                                    <!-- Angular JS -->
-                                    <!-- <div class="ben-skills-cont clearfix col-md-6 col-lg-4 d-flex">
-                                        <div>
-                                            <img class="img rounded float-left" src="../Content/images/angular.png" />
-                                        </div>
-                                        <div style="flex-grow: 1">
-                                            <h4>Angular JS</h4>
-                                            <span>Angular JS</span>
-                                        </div>
-                                    </div> -->
 
                                     <!-- AJAX -->
                                     <div class="media col-md-6 mb-3 mb-md-0">
@@ -365,7 +357,7 @@
                                         <div class="media-body">
                                             <h5>XAMPP</h5>
                                             <p>
-                                                XAMPP, or Cross-Platform, Apache, MariaDB, PHP, and Perl, is a free and open source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
+                                                XAMPP, or Cross-Platform, Apache, MariaDB, PHP, and Perl, is a free and open source cross-platform web server solution stack package developed by Apache Friends.
                                             </p>
                                             <p>
                                                 Click 
@@ -391,13 +383,13 @@
                                         </div>
                                     </div>
 
-
+                                    <!-- API Integration -->
                                     <div class="media col-md-6 mb-3">
-                                        <img class="mr-3" src="../Content/images/skills/oauth.png" alt="API">
+                                        <img class="mr-3" src="../Content/images/skills/api.png" alt="API">
                                         <div class="media-body">
                                             <h5>API Integration</h5>
                                             <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
+                                                An application program interface is a set of routines, protocols, and tools for building software applications. It specifies how software components should interact. <a href="https://developers.facebook.com/" target="_blank">Facebook API</a>, <a href="https://developers.google.com/" target="_blank">Google API</a>, <a href="https://developer.microsoft.com/en-us/" target="_blank">Microsoft API</a>, <a href="https://api.slack.com/" target="_blank">Slack API</a>, <a href="https://asana.com/developers" target="_blank">Asana API</a>, and <a href="https://help.getharvest.com/api-v2/" target="_blank">Harvest API</a> are the examples of APIs that can be integrated to software applications.
                                             </p>
                                         </div>
                                     </div>
@@ -417,50 +409,31 @@
                                             </p>
                                         </div>
                                     </div>
-
+                                    
+                                    <!-- Database Management -->
                                     <div class="media col-md-6 mb-3">
-                                        <img class="mr-3" src="../Content/images/skills/webapi.png" alt="Web API">
-                                        <div class="media-body">
-                                            <h5>Web API</h5>
-                                            <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
-                                            </p>
-                                        </div>
-                                    </div>
-
-                                    <div class="media col-md-6 mb-3">
-                                        <img class="mr-3" src="../Content/images/skills/database.png" alt="Database Management">
+                                        <img class="mr-3" src="../Content/images/skills/dbms.png" alt="Database Management">
                                         <div class="media-body">
                                             <h5>Database Management and Administration</h5>
                                             <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
+                                                The management of database through defining, creating, reading, modifying, updating, and deleting of database, particularly using database management system or DBMS, and relational database management system or RDBMS, when managing relational databases. SQL or structured query language is a language used for database management. <a href="https://www.mysql.com/" target="_blank">MySQL</a> and <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2017" target="_blank">SQL Server</a> are the examples of RDBMS. <a href="https://docs.microsoft.com/en-us/sql/t-sql/language-reference" target="_blank">Transact-SQL or T-SQL</a>, an extension of SQL, is used for SQL Server database management.
                                             </p>
                                         </div>
                                     </div>
 
-                                    <!-- MySQL -->
-                                    <div class="media col-md-6 mb-3">
-                                        <img class="mr-3" src="../Content/images/skills/mysql.png" alt="MySQL">
+                                    <!-- Stored Procedure -->
+                                    <div class="media col-md-6">
+                                        <img class="mr-3" src="../Content/images/skills/storedproc.png" alt="Stored Procedure">
                                         <div class="media-body">
-                                            <h5>MySQL</h5>
+                                            <h5>Stored Procedure</h5>
                                             <p>
-                                                MySQL is the world’s most popular open source database, enabling the cost-effective delivery of reliable, high-performance and scalable Web-based and embedded database applications.
+                                                A subroutine available to applications that access a relational database management system.
                                             </p>
                                             <p>
                                                 Click 
-                                                <a href="https://www.mysql.com/" target="_blank">here</a> and
-                                                <a href="http://www.oracle.com/technetwork/database/mysql/index.html" target="_blank">here</a> 
-                                                to read more.
-                                            </p>
-                                        </div>
-                                    </div>
-
-                                    <div class="media col-md-6">
-                                        <img class="mr-3" src="../Content/images/skills/tsql.png" alt="Transact SQL">
-                                        <div class="media-body">
-                                            <h4>Microsoft SQL Server (Transact-SQL)</h4>
-                                            <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
+                                                <a href="https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html" target="_blank">here</a> and
+                                                <a href="https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine" target="_blank">here</a> 
+                                                to read about how to create stored procedures in MySQL and SQL Server respectively.
                                             </p>
                                         </div>
                                     </div>
@@ -528,13 +501,13 @@
                                         </div>
                                     </div>
 
-                                    <!-- VSTO AddIn -->
+                                    <!-- Office AddIn -->
                                     <div class="media col-md-6">
                                         <img class="mr-3" src="../Content/images/skills/office.png" alt="VSTO AddIn">
                                         <div class="media-body">
-                                            <h5>Microsoft Office VSTO AddIn Development</h5>
+                                            <h5>Microsoft Office AddIn Development</h5>
                                             <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
+                                                Microsoft Office AddIn is a software extension that is utilized by, and can interact with, Microsoft Office. Its older version is <a href="https://msdn.microsoft.com/en-us/library/jj620922.aspx" target="_blank">Microsoft Office COM or VSTO (Visual Studio Tools for Office) Addin</a>. However, the <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/" target="_blank">newest version of Microsoft Office AddIn</a> can be used by multiple platforms and is web-based.
                                             </p>
                                         </div>
                                     </div>
@@ -609,7 +582,7 @@
                                         <div class="media-body">
                                             <h5>XML</h5>
                                             <p>
-                                                Extensive Markup Language is a language which is much like HTML, but its tags and attributes are user-defined. It is also used for transmitting and storing data. XML is designed to carry data, unlike HTML which is designed to display data.
+                                                Extensive Markup Language is a language which is much like HTML, but its tags and attributes are user-defined. XML is designed to carry data, unlike HTML which is designed to display data.
                                             </p>
                                             <p>
                                                 Click 
@@ -625,12 +598,7 @@
                                         <div class="media-body">
                                             <h5>Full-text Search and Lucene.NET</h5>
                                             <p>
-                                                Full-text search is a technique for searching a single computer-stored document or a collection in a full text database. Lucene.NET is a full-text search engine library for .NET. It is derived from <a href="https://lucene.apache.org/" target="_blank">Lucene</a> Java-based Full-text Search Engine library.
-                                            </p>
-                                            <p>
-                                                Click 
-                                                <a href="https://lucenenet.apache.org/" target="_blank">here</a> 
-                                                to read more.
+                                                Full-text search is a technique for searching a single computer-stored document or a collection in a full text database. <a href="https://lucenenet.apache.org/" target="_blank">Lucene.NET</a> is a full-text search engine library for .NET derived from <a href="https://lucene.apache.org/" target="_blank">Lucene</a> Java-based Full-text Search Engine library.
                                             </p>
                                         </div>
                                     </div>
@@ -682,21 +650,36 @@
                                             </p>
                                         </div>
                                     </div>
-
+                                    
+                                    <!-- Virtual Machine Management -->
                                     <div class="media col-md-6 mb-3">
                                         <img class="mr-3" src="../Content/images/skills/vm.png" alt="Virtual Machine Management">
                                         <div class="media-body">
                                             <h5>Virtual Machine Management</h5>
-                                            <span>A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.</span>
+                                            <p>
+                                                Virtual machine is an emulation of a computer system. It is based on computer architectures and provides functionality of a physical computer.
+                                            </p>
+                                            <p>
+                                                Click 
+                                                <a href="https://azure.microsoft.com/en-us/services/virtual-machines/" target="_blank">here</a> 
+                                                to read about Microsoft Windows virtual machine.
+                                            </p>
                                         </div>
                                     </div>
-
+                                    
+                                    <!-- Microsoft Office -->
                                     <div class="media col-md-6 mb-3">
                                         <img class="mr-3" src="../Content/images/skills/msoffice.png" alt="Microsoft Office">
                                         <div class="media-body">
                                             <h5>Microsoft Office</h5>
                                             <p>
-                                                A full-text search engine library for .NET. It is derived from Lucene Java-based Full-text Search Engine library.
+                                                Microsoft Office is a family of client software, server software, and services developed by Microsoft, such as <a href="https://products.office.com/en/word" target="_blank">Word</a>, <a href="https://products.office.com/en/excel" target="_blank">Excel</a>, <a href="https://products.office.com/en/powerpoint" target="_blank">PowerPoint</a>, and 
+                                                <a href="https://products.office.com/en/access" target="_blank">Access</a>.
+                                            </p>
+                                            <p>
+                                                Click 
+                                                <a href="https://products.office.com/en/home" target="_blank">here</a> 
+                                                to read about Microsoft Office. 
                                             </p>
                                         </div>
                                     </div>
@@ -746,7 +729,7 @@
                                         <div class="media-body">
                                             <h5>Object-Oriented Programming</h5>
                                             <p>
-                                                A programming language model organized around objects rather than "actions" and data rather than logic. <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming" target="_blank">C#</a> and <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/concepts/object-oriented-programming">VB.net</a> are among the examples of object-oriented programming languages.
+                                                A programming language model organized around objects rather than "actions" and data rather than logic. <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/object-oriented-programming" target="_blank">C#</a> and <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/concepts/object-oriented-programming" target="_blank">VB.net</a> are among the examples of object-oriented programming languages.
                                             </p>
                                         </div>
                                     </div>
@@ -784,13 +767,13 @@
                                         <div class="media-body">
                                             <h5>Source and Version Control Management</h5>
                                             <p>
-                                                Version control, revision control or source control, manages the changes of documents, computer programs, large web sites, and other collections of information, made especially by different users. <a href="https://git-scm.com/" target="_blank">Git</a> is an example of the version control system, and <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://bitbucket.org/" target="_blank">BitBucket</a> are the hosting services for version control that use it. <a href="https://www.visualstudio.com/tfs/" target="_blank">Microsoft Team Foundation Server (TFS)</a> and <a href="https://www.visualstudio.com/team-services/" target="_blank">Visual Studio Team Services (VSTS)</a> provide two models of version control: <a href="https://docs.microsoft.com/en-us/vsts/git/overview?view=vsts" target="_blank">Git</a> and <a href="https://docs.microsoft.com/en-us/vsts/tfvc/overview?view=vsts#team-foundation-version-control">Team Foundation Version Control (TFVC).</a>
+                                                Version or source control, manages the changes of documents, computer programs, large web sites, and other collections of information, made especially by different users. <a href="https://git-scm.com/" target="_blank">Git</a> is an example, and <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://bitbucket.org/" target="_blank">BitBucket</a> are the hosting services for version control that use it. <a href="https://www.visualstudio.com/tfs/" target="_blank">Microsoft Team Foundation Server (TFS)</a> and <a href="https://www.visualstudio.com/team-services/" target="_blank">Visual Studio Team Services (VSTS)</a> provide two models of version control: <a href="https://docs.microsoft.com/en-us/vsts/git/overview?view=vsts" target="_blank">Git</a> and <a href="https://docs.microsoft.com/en-us/vsts/tfvc/overview?view=vsts#team-foundation-version-control" target="_blank">Team Foundation Version Control (TFVC).</a>
                                             </p>
                                         </div>
                                     </div>
 
                                     <!-- Lambda -->
-                                    <div class="media col-md-6 mb-3 mb-md-0">
+                                    <div class="media col-md-6 mb-3">
                                         <img class="mr-3" src="../Content/images/skills/lambda.png" alt="Lambda Expression">
                                         <div class="media-body">
                                             <h5>Lambda Expression</h5>
@@ -808,7 +791,7 @@
                                     </div>
 
                                     <!-- LINQ -->
-                                    <div class="media col-md-6">
+                                    <div class="media col-md-6 mb-3">
                                         <img class="mr-3" src="../Content/images/skills/linq.png" alt="LINQ">
                                         <div class="media-body">
                                             <h5>LINQ Expression</h5>
@@ -819,6 +802,17 @@
                                                 Read about 
                                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">LINQ Expressions for C#</a> and 
                                                 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/concepts/linq/" target="_blank">LINQ Expressions for VB.net</a>.
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <!-- HTTP Debugging -->
+                                    <div class="media col-md-6">
+                                        <img class="mr-3" src="../Content/images/skills/fiddler.png" alt="Fiddler">
+                                        <div class="media-body">
+                                            <h5>HTTP Debugging</h5>
+                                            <p>
+                                                Debugging thru sending HTTP requests. <a href="https://www.telerik.com/fiddler" target="_blank">Telerik Fiddler</a> is an example of HTTP debugging tool.
                                             </p>
                                         </div>
                                     </div>

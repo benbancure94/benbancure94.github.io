@@ -8,23 +8,13 @@ body {
     background-position: center;
     background-size: cover;
 }
-/* #benAbout > .row > div > ul {
-    max-width: 400px;
-} */
 .ben-contact {
     max-width: 400px;
 }
-/* #benAbout > .row > div > ul > li > span:first-child {
-    font-size: 15pt;
-    min-width: 50px;
-} */
-/* #benAbout > .row > div > ul > li > div:last-child {
-    display: inline-block;
-    word-wrap: break-word;
-} */
 .ben-contact > li > span {
     min-width: 40px;
     font-size: 16pt;
+    color: #555555;
 }
 .ben-contact > li > small {
     flex-grow: 1;
@@ -59,6 +49,13 @@ body {
 }
 .ben-about-cont > h1, .ben-portfolio-cont > h1 {
     margin-bottom: 50px;
+}
+.ben-portfolio-home-cont > .row > div > h5 > a {
+    color: #222222;
+    text-decoration: none;
+}
+.ben-portfolio-home-cont > .row > div > h5 > a:hover {
+    color: #555555;
 }
 .ben-portfolio-cont {
     margin-bottom: 50px;

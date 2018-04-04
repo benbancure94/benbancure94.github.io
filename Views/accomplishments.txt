@@ -1,0 +1,11 @@
+Nav
+About
+    Home
+    Hobbies
+    Software Skills
+        Front-end
+        Back-end
+        Desktop
+        Other Skills
+    Employments
+Footer
