@@ -28,38 +28,29 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div>
-                            <img class="img-fluid rounded-circle" src="../Content/images/hobbies.jpg"/>
-                        </div>
-                        <h5>Old-Fashioned</h5>
-                        <p>
-                            I am an old-fashioned person particularly when it comes to music, clothing, language, and behavior.
-                        </p>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
-                            <img class="img-fluid rounded-circle" src="../Content/images/characteristics/religious.jpg"/>
-                        </div>
-                        <h5>Religious</h5>
-                        <p>
-                            I devoutly love God. I love Jesus, our Divine Saviour, His Immaculate Blessed Mother Virgin Mary, and His Foster Father Saint Joseph. I love them with all my heart. I love my faith. I love this universal faith until the end.
-                        </p>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/polymath.jpg"/>
                         </div>
                         <h5>Little Polymath</h5>
                         <p>
-                            I have quite wide range of knowledge, but I want to learn new ones. I love science and its branches, especially astronomy, chemistry, physics, mathematics, etc. and my field, programming. I love arts, too, particularly music.
+                            I have quite wide range of knowledge, and I want to learn more. I love science and its branches, especially astronomy, chemistry, physics, mathematics, etc. and my field, programming. I love arts, too, particularly music.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div>
-                            <img class="img-fluid rounded-circle" src="../Content/images/charref.jpg"/>
+                            <img class="img-fluid rounded-circle" src="../Content/images/characteristics/mananagalog.jpg"/>
                         </div>
-                        <h5>Mananagalog and Little Polyglot</h5>
+                        <h5>Mananagalog</h5>
                         <p>
-                            I sincerely love my native tongue, Tagalog. This is why I speak and am striving to speak it as pure as possible, but not puristically. However, I love learning languages. I can speak English but not that fluently, can write it but still learning its rich grammar and vocabulary. I love also Philippine languages such as Iloco and Cebuano. I know quite a lot of Spanish, some Latin and Chinese as well.
+                            I sincerely love my native tongue, Tagalog. This is why I speak and am striving to speak it in pure but not puristic way.
+                        </p>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div>
+                            <img class="img-fluid rounded-circle" src="../Content/images/characteristics/multilingual.jpg"/>
+                        </div>
+                        <h5>Little Multilingual</h5>
+                        <p>
+                            However, I love learning languages. I love also Philippine languages such as Iloco and Cebuano. I can speak English as second language but not that fluently, can write it but still am learning its rich grammar and vocabulary. I know quite a lot of Spanish, some Latin and Chinese as well.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
@@ -77,7 +68,7 @@
                         </div>
                         <h5>Compassionate</h5>
                         <p>
-                            When I see people facing their problems, challenges, and hardships, it is as if I were facing them. This is why I am compassionate with people and compels me to help them face their challenges through giving them example, motivation, and inspiration.
+                            When I see someone facing his problems, challenges, and hardships, it is as if I were facing them. This is why I am motivated in helping him face his challenges through giving him example, motivation, and inspiration.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
@@ -91,11 +82,11 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
                         <div>
-                            <img class="img-fluid rounded-circle" src="../Content/images/charref.jpg"/>
+                            <img class="img-fluid rounded-circle" src="../Content/images/characteristics/learner.jpg"/>
                         </div>
                         <h5>Persistent Learner</h5>
                         <p>
-                            I continuously learn something no matter how hard it is. If the mistake is committed, I will try learn again and never commit the mistake again. Learning from mistake is true learning.
+                            I continuously learn something no matter how hard it is. If the mistake is committed, I will try learn again and try never to commit the mistake again. Learning from mistake is true learning.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
@@ -105,6 +96,15 @@
                         <h5>Enthusiastic, Industrious, and Persevering</h5>
                         <p>
                             Enthusiasm, industriousness, and perseverance are some of my weapons to combat my hardships and challenges that I face.
+                        </p>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div>
+                            <img class="img-fluid rounded-circle" src="../Content/images/characteristics/religious.jpg"/>
+                        </div>
+                        <h5>Religious</h5>
+                        <p>
+                            I devoutly love God. I love Jesus, our Divine Saviour, His Immaculate Blessed Mother Virgin Mary, and His Foster Father Saint Joseph. I love them with all my heart. I love my faith. I love this universal faith until the end.
                         </p>
                     </div>
                 </div>
