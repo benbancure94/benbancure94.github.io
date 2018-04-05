@@ -25,7 +25,7 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="frontEndDev" class="collapse">
+                        <div id="frontEndDev" class="ben-card collapse">
                             <div class="card-body">
                                 <div class="row">
 
@@ -167,7 +167,7 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="backEndDev" class="collapse">
+                        <div id="backEndDev" class="ben-card collapse">
                             <div class="card-body">
                                 <div class="row">
 
@@ -449,7 +449,7 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="desktopDev" class="collapse">
+                        <div id="desktopDev" class="ben-card collapse">
                             <div class="card-body">
                                 <div class="row">
 
@@ -523,7 +523,7 @@
                                 </a>
                             </h4>
                         </div>
-                        <div id="otherSkills" class="collapse">
+                        <div id="otherSkills" class="ben-card collapse">
                             <div class="card-body">
                                 <div class="row">
 
@@ -826,6 +826,7 @@
         <div>
             <div class="ben-tophome-links">
                 <a href="#top">Back to Top</a>
+                <a href="references.php">References</a>
                 <a href="index.php">Back to Home</a>
             </div>
         </div>

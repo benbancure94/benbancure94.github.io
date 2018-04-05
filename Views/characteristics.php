@@ -18,16 +18,16 @@
                 <h1 style="text-align: center">Characteristics, Personality, and Attitude</h1>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/introvert.jpg"/>
                         </div>
                         <h5>Introvert, Quiet, and Shy</h5>
                         <p>
-                            I am an introvert and quiet person. I occasionally have trouble socializing and meeting new friends, but I can make friends selectively. I occasionally do not initiate conversation.
+                            I am an introvert and quiet person. I occasionally have trouble socializing and meeting new friends, but I can make friends selectively. I occasionally do not initiate conversation. I am also camera-shy.
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/polymath.jpg"/>
                         </div>
                         <h5>Little Polymath</h5>
@@ -36,7 +36,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/mananagalog.jpg"/>
                         </div>
                         <h5>Mananagalog</h5>
@@ -45,7 +45,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/multilingual.jpg"/>
                         </div>
                         <h5>Little Multilingual</h5>
@@ -54,7 +54,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/patriot.jpg"/>
                         </div>
                         <h5>Patriot</h5>
@@ -63,7 +63,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/compassionate.jpg"/>
                         </div>
                         <h5>Compassionate</h5>
@@ -72,7 +72,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/humble.jpg"/>
                         </div>
                         <h5>Humble</h5>
@@ -81,7 +81,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/learner.jpg"/>
                         </div>
                         <h5>Persistent Learner</h5>
@@ -90,7 +90,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/perseverance.jpg"/>
                         </div>
                         <h5>Enthusiastic, Industrious, and Persevering</h5>
@@ -99,7 +99,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img-fluid rounded-circle" src="../Content/images/characteristics/religious.jpg"/>
                         </div>
                         <h5>Religious</h5>

@@ -18,28 +18,28 @@
                 <h1 class="text-center">Hobbies and Personal Skills</h1>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/music.jpg"/>
                         </div>
                         <h5>Playing Musical Instruments</h5>
                         <p>My musical instruments I love to play and used to play are guitar, harmonica, and keyboard.</p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/reading.jpg"/>
                         </div>
                         <h5>Reading Books and Articles</h5>
                         <p>I love reading books and articles especially that are related to my skills and interests.</p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/singing.jpg"/>
                         </div>
                         <h5>Singing</h5>
                         <p>I like to sing, though I am shy and but not so much, especially OPM songs.</p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/listening.jpg"/>
                         </div>
                         <h5>Listening to Music</h5>
@@ -48,7 +48,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/socialmedia.jpg"/>
                         </div>
                         <h5>Web Surfing</h5>
@@ -57,7 +57,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/games.jpg"/>
                         </div>
                         <h5>Playing Games</h5>
@@ -66,7 +66,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/video.jpg"/>
                         </div>
                         <h5>Watching Videos</h5>
@@ -75,7 +75,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/math.jpg"/>
                         </div>
                         <h5>Solving Mathematical Problems</h5>
@@ -84,7 +84,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/coding.jpg"/>
                         </div>
                         <h5>Creating Software Application and Coding</h5>
@@ -93,7 +93,7 @@
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <img class="img rounded-circle" src="../Content/images/hobbies/praying.jpg"/>
                         </div>
                         <h5>Praying</h5>

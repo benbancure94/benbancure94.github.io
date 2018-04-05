@@ -1,3 +1,10 @@
+@media (min-width: 768px) and (max-width: 899.98px)
+{
+    #benNav > ul {
+        font-size: 10.5pt;
+    }
+}
+
 body {
     min-width: 500px;
     background-color: #ddeeff;
@@ -64,11 +71,9 @@ body {
     margin-bottom: 20px;
 }
 .ben-portfolio-cont > .row > div {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .ben-portfolio-cont > .row > div > div {
-    margin: auto;
-    margin-bottom: 25px;
     width: 115px;
 }
 .ben-portfolio-cont > .row > div > div > img,
@@ -82,10 +87,7 @@ body {
     text-align: center;
     font-size: 11pt;
 }
-#frontEndDev > .card-body > .row > .media > img,
-#backEndDev > .card-body > .row > .media > img,
-#desktopDev > .card-body > .row > .media > img,
-#otherSkills > .card-body > .row > .media > img {
+.ben-card > .card-body > .row > .media > img {
     width: 80px; height: 80px;
 }
 .ben-skills-cont, .ben-charref-cont {

@@ -18,7 +18,7 @@
                 <h1 class="text-center">My Portfolio</h1>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <a href="characteristics.php"><img class="img rounded-circle" src="../Content/images/home/personality.jpg"/></a>
                         </div>
                         <h5>
@@ -26,7 +26,7 @@
                         </h5>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <a href="hobbies.php"><img class="img rounded-circle" src="../Content/images/home/hobbies.jpg"/></a>
                         </div>
                         <h5>
@@ -34,7 +34,7 @@
                         </h5>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <a href="skills.php"><img class="img rounded-circle" src="../Content/images/home/softwareskills.jpg"/></a>
                         </div>
                         <h5>
@@ -42,13 +42,19 @@
                         </h5>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
                             <a href="employments.php"><img class="img rounded-circle" src="../Content/images/home/employments.jpg"/></a>
                         </div>
                         <h5><a href="employments.php">Employments</a></h5>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6">
-                        <div>
+                        <div class="mx-auto my-3">
+                            <a href="seminarsattended.php"><img class="img rounded-circle" src="../Content/images/home/seminars.jpg"/></a>
+                        </div>
+                        <h5><a href="seminarsattended.php">Seminars Attended</a></h5>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="mx-auto my-3">
                             <a href="characterreference.php"><img class="img rounded-circle" src="../Content/images/home/characterreference.jpg"/></a>
                         </div>
                         <h5><a href="characterreference.php">Character References</a></h5>
